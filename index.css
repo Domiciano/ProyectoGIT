@@ -1,0 +1,6 @@
+.formulario{
+    background-color: azure;
+    color: wheat;
+    display: flex;
+    flex-direction: column;
+}
